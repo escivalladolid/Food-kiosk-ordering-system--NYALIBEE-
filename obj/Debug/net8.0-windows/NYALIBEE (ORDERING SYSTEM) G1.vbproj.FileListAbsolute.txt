@@ -1,0 +1,170 @@
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.exe
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Adminonly.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.LoginForm1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.mdi.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1 - Copy.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.signupform.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.NyalibeeLogin.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Resources.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.progressbar.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfo.vb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE.1D5F73DA.Up2Date
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\refint\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.pdb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.exe
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Adminonly.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.LoginForm1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.mdi.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1 - Copy.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.signupform.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.NyalibeeLogin.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Resources.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.progressbar.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfo.vb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE.1D5F73DA.Up2Date
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\refint\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.pdb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.exe
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.deps.json
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.runtimeconfig.json
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.pdb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Adminonly.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.LoginForm1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.mdi.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1 - Copy.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.signupform.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.NyalibeeLogin.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Resources.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.progressbar.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfo.vb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE.1D5F73DA.Up2Date
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\refint\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.pdb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\ref\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.exe
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.deps.json
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.runtimeconfig.json
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.pdb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Adminonly.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Form2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.LoginForm1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.mdi.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1 - Copy.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent2.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.signupform.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.NyalibeeLogin.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.MDIParent1.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.Resources.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE__ORDERING_SYSTEM__G1.progressbar.resources
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.AssemblyInfo.vb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE.1D5F73DA.Up2Date
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\refint\NYALIBEE (ORDERING SYSTEM) G1.dll
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.pdb
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\NYALIBEE (ORDERING SYSTEM) G1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\NYALIBEE (ORDERING SYSTEM) G1 - Copy - Copy - Copy\NYALIBEE (ORDERING SYSTEM) G1\obj\Debug\net8.0-windows\ref\NYALIBEE (ORDERING SYSTEM) G1.dll
